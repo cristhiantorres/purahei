@@ -1,4 +1,4 @@
-service: "3"
+version: "3.9"
 
 services:
   ampache:
